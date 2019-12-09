@@ -54,7 +54,8 @@
           //todo сделать списка из роута бэка
         providers: {
          "yandex": "yandex",
-         "unlocked": "unlocked"
+         "unlocked": "unlocked",
+         "dark-sky": "dark-sky"
       },
           selectedLocation: 'Екатеринбург',
           locations: {
